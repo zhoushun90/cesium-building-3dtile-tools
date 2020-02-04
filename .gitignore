@@ -1,5 +1,4 @@
 # ignores following folders
-bin/
 build/
 .idea/
 node_modules/
